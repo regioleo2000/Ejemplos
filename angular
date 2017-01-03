@@ -1,0 +1,6 @@
+<!DOCTYPE html><html>  <head>    <meta charset="utf-8">    <title></title>  </head>  <body>    <div class="container-fluid">     
+<<div class="form-group">          <label for="txtNombre">Nombre</label>      
+<input type="text" class="form-control" id="txtNombre" placeholder="">     
+<p class="help-block">Help text here.</p>       
+</div>    </div>  </body>
+</html>
